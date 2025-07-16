@@ -6,7 +6,7 @@ solid electrolyte interface (SEI) design.
 """
 
 __version__ = "1.0.0"
-__author__ = "Research Team"
+__author__ = "lunazhang"
 
 from . import pretrain
 from . import finetune  
